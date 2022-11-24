@@ -37,6 +37,7 @@ const options = {
       });
       return;
     }
+    
     refs.start.removeAttribute('disabled');
   },
 };
